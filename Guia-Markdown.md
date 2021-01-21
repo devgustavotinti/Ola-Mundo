@@ -4,11 +4,17 @@
 ---
 
 Estou aprendendo a como utilizar:
+
 *Itálico*
 **Negrito**
 ~~Riscar a palavra~~
 
 Lista numerada:
 1. Teste
-1. Teste2
-   Teste2.1
+0. Teste2
+   1. Teste2.1
+   2. Teste2.2
+1. Teste3
+
+
+Lista demarcada:
