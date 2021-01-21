@@ -5,11 +5,7 @@
 
 Estou aprendendo a como utilizar:
 
-*Itálico*
-
-**Negrito**
-
-~~Riscar a palavra~~
+*Itálico*, **Negrito**, ~~Riscar a palavra~~
 
 
 Lista numerada:
@@ -28,3 +24,5 @@ Lista demarcada:
 
 
 Lista de Tarefas:
+- [x] Criar a página principal
+- [ ] Criar a página da loja
