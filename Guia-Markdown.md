@@ -28,3 +28,7 @@ Lista de Tarefas:
 - [ ] Criar a página da loja
 
 [Acesse meu Github](https://github.com/devgustavotinti)
+
+Num | Nome | Prof
+---|---|---
+1 | Gustavo | Programador
