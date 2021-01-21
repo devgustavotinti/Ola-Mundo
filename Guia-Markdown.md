@@ -6,8 +6,11 @@
 Estou aprendendo a como utilizar:
 
 *Itálico*
+
 **Negrito**
+
 ~~Riscar a palavra~~
+
 
 Lista numerada:
 1. Teste
@@ -18,3 +21,10 @@ Lista numerada:
 
 
 Lista demarcada:
+*Teste
+*Teste
+   *Teste
+*Teste
+
+
+Lista de Tarefas:
