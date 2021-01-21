@@ -26,3 +26,5 @@ Lista demarcada:
 Lista de Tarefas:
 - [x] Criar a página principal
 - [ ] Criar a página da loja
+
+[Acesse meu Github](httops://github.com/devgustavotinti)
