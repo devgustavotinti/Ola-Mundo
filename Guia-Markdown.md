@@ -17,10 +17,10 @@ Lista numerada:
 
 
 Lista demarcada:
-*Teste
-*Teste
-   *Teste
-*Teste
+* Teste
+* Teste
+   * Teste
+* Teste
 
 
 Lista de Tarefas:
