@@ -1,9 +1,9 @@
-# Guia da Linguagem Markdown
+# _Guia da Linguagem Markdown_
 
 ## Curso de Git e Github do *curso em vídeo*
 ---
 
-Estou aprendendo a utilizar o:
+Estou aprendendo a como utilizar:
 *Itálico*
 **Negrito**
 ~~Riscar a palavra~~
